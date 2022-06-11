@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+# Simple Calculator By Nischal 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
